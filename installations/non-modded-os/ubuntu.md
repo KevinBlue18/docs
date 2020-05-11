@@ -64,7 +64,7 @@ pkg update
 
 ![](../../.gitbook/assets/ubuntu.png)
 
-* Select the version you want to install, namely 18.04
+* Select the version you want to install, namely 19.10
 
 ![](../../.gitbook/assets/ubuntu_selection.png)
 
